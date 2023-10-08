@@ -1,0 +1,3 @@
+﻿begin
+  print('n')
+end.
